@@ -1,5 +1,10 @@
 # reactbreakouthell
-#breakout on react native
+# breakout on react native
+## breakout using the react native reanimated library 
+- [x] Build github
+- [ ] Add levels
+- [ ] Polish animations
+- [ ] Add Skia to improve Android support 
 https://expo.dev/artifacts/eas/53tUjJYn72HzJrwNHNPH9Z.aab
 ![IMG_8907](https://github.com/empathey/reactbreakouthell/assets/133193728/806955de-8762-4513-8410-6a01d0823a96)
 
