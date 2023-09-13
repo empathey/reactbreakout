@@ -1,4 +1,4 @@
-# reactbreakouthell
+# React Native Breakout
 ## breakout on react native
 ### breakout using the react native reanimated library 
 - [x] Build github
