@@ -6,7 +6,6 @@ Breakout is a game originally made for the Atari 2600. This version of Breakout 
 - [ ] Add Skia to improve Android support 
 
 **Game In Motion**
-https://expo.dev/artifacts/eas/53tUjJYn72HzJrwNHNPH9Z.aab
 ![IMG_8907](https://github.com/empathey/reactbreakouthell/assets/133193728/806955de-8762-4513-8410-6a01d0823a96)
 
 **Game Over Screen**
