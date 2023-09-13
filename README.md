@@ -1,6 +1,5 @@
 # React Native Breakout
-## breakout on react native
-### breakout using the react native reanimated library 
+### Breakout is a game original made for the Atari 2600. This version Breakout was recreated using the React Native Reanimated library. I chose React Native because it would allow me to make  game from a single code base without needkng to learn multiple language. Knowing the serious technical difficulties with making games on React Native, this was a game that I was inspired to make because it functions extremely well in React Native.
 - [x] Build github
 - [ ] Add levels
 - [ ] Polish animations
